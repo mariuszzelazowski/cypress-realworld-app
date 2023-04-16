@@ -68,6 +68,8 @@ The only requirement for this project is to have [Node.js](https://nodejs.org/en
 
 TypeScript will be added as a local dependency to the project, so no need to install it.
 
+
+
 ### Installation
 
 ```shell
